@@ -10,13 +10,3 @@
     "REACT_APP_CLIENT_SECRET": "@client_secret"
   }
 }
-```
-
-**Fitxer 2: `.gitignore`**:
-```
-node_modules/
-.env
-.env.local
-build/
-dist/
-.DS_Store
